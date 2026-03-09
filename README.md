@@ -1,3 +1,7 @@
+# Update as of 3/8/2026
+
+I am going to be rewritting the code and overhauling the modding tools for Conception games. Version 2.0 will have better code, higher performance, and a deluxe GUI like my Aldnoah Engine. For now this repository is the old version, a new one will be linked soon.
+
 # Conception-1-Modding-Tools
 Conception 1/Plus lightweight Python coded Modding Tools. The scripts are extremely lightweight in my opinion with few dependencies, the goal was lightweight GUI based modding tools to make modding easier for modders. The file size of mods made is not a concern, whether your mod becomes smaller or larger than the original game's files doesn't matter anymore since the Mod Manager makes sure the game supports the change in file size. Essentially, mod without worry about file size because the Mod Manager will make sure your mod is applied regardless of the size of the file. The CFSI container format for Conception 1 is almsot identical to Conception 2 so I didn't change the GUI design for the Mod Creator or Mod Manager, I did change the unpacking script some since the format is slightly different.
 
